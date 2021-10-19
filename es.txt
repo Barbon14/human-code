@@ -1,0 +1,45 @@
+// implementazione di un layout asseganto
+
+creo la repository
+    - vado su github 
+    - creo una repository con nome assegnato, copiato da Slack
+
+apro visual studio
+
+clono la repository sul pc
+
+creo i file necessari nella cartella del progetto
+    - aggiungo un file index.html
+    - aggiungo un file style.css
+
+apro il file index.html con un browser
+
+analizzo gli screnshots dell'esercizio
+    - apro gli screnshots e osservo quali sono gli elementi di macrostruttura e il loro eventuale comportamento responsive
+    - decido da cosa partire e cosa è eventualmente ripetibile per facilitarmi il lavoro 
+
+aggiungo una macrostruttura al file index.html
+    - aggiungo i principali tag di struttura come header, main, section, footer ecc..
+    - aggiungo dei commenti che descrivono il contenuto che andrò ad aggiungere più avanti
+
+eseguo un commit
+
+aggiungo delle regole di debug al file style.css
+    - imposto una altezza fissa 
+    - imposto un colore di background
+    - imposto un bordo 
+
+visualizzo le modifiche effettuate attraverso il browser
+    - salvo i file html e css e aggiorno la pagina
+    - aggiorno la pagina
+    
+SE ciò che risulta mi soddisfa, termino l'esercio 
+    -eseguo un commit
+    -eseguo un push
+
+ALTRIMENTI 
+    -aggiungo o effettuo modifiche
+
+SE succede qualcosa di inaspettato 
+    - utilizzo l'insperctor per trovare il problema
+    - eseguo le modifiche del caso
